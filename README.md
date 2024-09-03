@@ -1,1 +1,1 @@
-# machine-learning-projects
+# Parkinson's Disease Predictor
